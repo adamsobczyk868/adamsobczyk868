@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamsobczyk868.
-- 👀 I’m interested in embedded programming in C/C++/Python.
+- 👀 I’m mostly interested in embedded programming in C/C++/Python, DSP, electronics & telco, IT/ICT...
 - 🌱 I’m currently learning more about programming of STM32Fxxx series in real time mode.
 - 💞️ I’m looking to collaborate on the related to the mentioned above topics.
 - 📫 How to reach me: sq5rwq@gmail.com.
